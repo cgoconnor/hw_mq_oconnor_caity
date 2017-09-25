@@ -1,0 +1,17 @@
+@media (min-width: 675px) {
+    body {
+        background-color: LightSteelBlue;
+    }
+}
+
+@media (min-width: 999px) {
+    body {
+        background-color: PowderBlue;
+    }
+}
+
+@media (min-width: 1280px) {
+    body {
+        background-color: SkyBlue;
+    }
+}
