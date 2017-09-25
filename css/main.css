@@ -1,3 +1,9 @@
 body {
     background-color: SpringGreen;
 }
+
+@media (min-width: 716px) and (max-width: 959px) {
+    body {
+        background-color: MediumAquamarine;
+    }
+}
