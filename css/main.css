@@ -1,3 +1,21 @@
 body {
     background-color: Orange;
 }
+
+@media (max-width: 1080px) {
+    body {
+        background-color: Tomato;
+    }
+}
+
+@media (max-width: 550px) {
+    body {
+        background-color: OrangeRed;
+    }
+}
+
+@media (max-width: 400px) {
+    body {
+        background-color: Coral;
+    }
+}
